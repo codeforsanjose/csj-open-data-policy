@@ -268,7 +268,7 @@ The Information Technology Department will work with departments to
 select the most appropriate method for transferring data to the open
 data portal.
 
-***Data Release and Validation ***
+***Data Release and Validation***
 
 Data Coordinators shall be responsible for the timely release of their
 data in accordance with the prioritization process as defined above. The
