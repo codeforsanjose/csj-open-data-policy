@@ -96,18 +96,13 @@ directs the following roles to take on the responsibilities identified
 below:
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Information**           The City of San José Open Data Portal will be administered by the Information Technology Department (ITD). ITD will work with Departments to facilitate upgrades to legacy systems and onboarding of new systems meeting open data standards as defined in the *Open Data Standards* section below. ITD, in partnership with the roles identified below, will produce a report on the state of the Open Data Initiative no less than annually.
-                            
-  **Technology **           
-                            
-  **Department**            
-  ------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Information Technology Department**           The City of San José Open Data Portal will be administered by the Information Technology Department (ITD). ITD will work with Departments to facilitate upgrades to legacy systems and onboarding of new systems meeting open data standards as defined in the *Open Data Standards* section below. ITD, in partnership with the roles identified below, will produce a report on the state of the Open Data Initiative no less than annually.
+  
   **Open Data Architect**   The Open Data Architect (ODA), located in the IT Department, will act as the frontline manager for the Open Data Portal. This position will work with Departments to identify data sources that impact the San José community and connect those sources of information with the City’s Open Data Portal. The ODA will oversee system integration between Departmental data sources and the Open Data Portal to facilitate availability of current and accurate published data.
 
   **Data Analytics Team**   The Data Analytics Team (DAT) will provide general support for data-related initiatives in the City of San José. DAT will oversee the Data Inventory Initiative and assist in identifying datasets for publication. DAT will take on other duties related to Open Data as assigned by the City Manager.
 
   **Data Coordinators**     Each department shall designate one staff member to serve as Data Coordinator. Data Coordinators are responsible for liaising with the Data Analytics Team, IT and the Open Data Architect on all matters related to Open Data and data analytics, in general. In addition the open data coordinators will have the responsibility for ensuring the timely release and refresh of data
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The City Manager may assign additional roles and responsibilities
 related to the implementation of this Policy as needed.
@@ -116,7 +111,8 @@ Open Data Portal
 ----------------
 
 A single web portal shall be maintained by or on behalf of the City of San José, administered by ITD. Data made accessible on the Open Data Portal shall meet open data standards as defined in the *Open Data Standards* section below. 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+
 
 OPEN DATA STANDARDS
 ===================
