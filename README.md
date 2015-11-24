@@ -1,4 +1,4 @@
-# Instructions for Commenting on Draft Open Data Policy 
+## Instructions for Commenting on Draft Open Data Policy 
 The City of San Jose is committed to freely sharing as much information
 as possible. We recognize that information is a valuable resource and a
 strategic asset to the public.  Making information accessible,
