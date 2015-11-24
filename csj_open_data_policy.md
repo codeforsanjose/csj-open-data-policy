@@ -111,7 +111,6 @@ Open Data Portal
 ----------------
 
 A single web portal shall be maintained by or on behalf of the City of San José, administered by ITD. Data made accessible on the Open Data Portal shall meet open data standards as defined in the *Open Data Standards* section below. 
------------------------------------------------------------------------------------------------------
 
 
 OPEN DATA STANDARDS
@@ -197,10 +196,8 @@ LEGAL TERMS FOR PUBLIC USE OF OPEN DATA
 =======================================
 
 Public data made available on the City of San José data portal shall be provided as a public service, on an “as is” basis, and for informational purposes only. Although the City will strive to ensure that such public data is accurate, the City shall make no warranty, representation or guaranty of any type as to the content, accuracy, timeliness, completeness or fitness for any particular purpose or use of any public data provided on such portal; nor shall any such warranty be implied, including, without limitation, the implied warranties of merchantability and fitness for a particular purpose. The City shall assume no liability for (i) any errors, omissions or inaccuracies in the public data provided on the City of San José data portal regardless of how caused; or (ii) any decision made or action taken or not taken by anyone using or relying upon such public data; or (iii) any virus or other damage to any computer that might occur during or as a result of accessing such portal or the public data provided therein; or (iv) any other act identified in any disclaimer of liability or indemnification provision or any other provision set forth in the Terms of Use required under subsection (b) of this section.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The City of San José data portal and all public data contained on such portal shall be subject to Terms of Use developed by the City. Such Terms of Use shall be posted by the City in a conspicuous place on the open data portal. 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The City shall reserve the right to discontinue availability of content
 on the City of San Jose data portal at any time and for any reason. If a
@@ -216,7 +213,6 @@ IMPLEMENTATION
 ==============
 
 To facilitate the strategic implementation of this policy, Departments shall participate in all associated processes including, but not limited to, the processes identified below. The Chief Information Officer, Open Data Architect, and Data Analytics Team may identify additional processes as necessary to facilitate full implementation of this policy and the Open Data Initiative, in general. 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Data Inventory Process
 ----------------------
