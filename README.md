@@ -1,5 +1,4 @@
-# csj-open-data-policy
-*** City of San Jose's Open Data Policy ***
+# Introductions for Commenting on Draft Open Data Policy 
 The City of San Jose is committed to freely sharing as much information
 as possible. We recognize that information is a valuable resource and a
 strategic asset to the public.  Making information accessible,
