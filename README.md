@@ -17,7 +17,7 @@ part of our commitment to transparency and community engagement, we
 welcome your interest and feedback on how we can make this policy more
 effective. Please send comments or a draft of this document with your
 suggested revisions to <opendata@sanjoseca.gov> no later than Friday,
-December 18^th^.
+December 18, 2015.
 
 If you have questions, please contact Kevin Miller at
 kevin.miller@sanjoseca.gov.
