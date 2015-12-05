@@ -12,12 +12,13 @@ survey](https://www.surveymonkey.com/r/SJOpenDataSurvey) and a series of
 public events.
 
 We appreciate your interest in the City of San Jose’s Draft Open Data
-Policy. ***This is a draft and is subject to further revision***. As
-part of our commitment to transparency and community engagement, we
+Policy. ***This is a draft and is subject to further revision***. 
+
+As part of our commitment to transparency and community engagement, we
 welcome your interest and feedback on how we can make this policy more
-effective. Please send comments or a draft of this document with your
-suggested revisions to <opendata@sanjoseca.gov> no later than Friday,
-December 18, 2015.
+effective. Please make comments on this draft using either Github Issues, 
+or fork the repo and use a pull request. The deadline for feedback on this
+draft is December 18, 2015.
 
 If you have questions, please contact Kevin Miller at
 kevin.miller@sanjoseca.gov.
